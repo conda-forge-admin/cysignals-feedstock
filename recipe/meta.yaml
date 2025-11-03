@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/sagemath/cysignals/archive/{{ version }}.tar.gz
-  sha256: 6a9346e9f91d607cf9e1feaef0d87d73f52db6807a92ddc4aa52e8612888bd4e
+  sha256: beae06b4dbd7daeb374fb831312301113a527f6e058c393d99557dbf2f55ee17
   patches:
     - qemu.patch
     # See https://github.com/conda-forge/cysignals-feedstock/issues/37
